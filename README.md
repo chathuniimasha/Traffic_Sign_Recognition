@@ -53,16 +53,13 @@ An intelligent real-time traffic sign detection and driver assistance system des
 
  🚀 Installation
 
-bash
+```bash
 git clone https://github.com/yourusername/traffic-sign-recognition.git
 cd traffic-sign-recognition
 pip install -r requirements.txt
 
-
-
 ▶️ Run Project
 python app.py
-
 
 
 📁 Project Structure
@@ -72,6 +69,8 @@ traffic-sign-recognition/
 ├── best.pt
 ├── requirements.txt
 └── assets/
+````
+
 
 
 📈 Results
